@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8OFduRREqb6DD1XPUI6vl89nqFPEktIcbTPo9KEYDTLYVedB+DzUerIqPbtE7+E5YnN2tp5OfQV5yJhjjN1mlA==",
+  "success": true,
+  "projectFilePath": "D:\\RnD\\SampleApp\\SampleWebToTest\\SampleWebToTest\\SampleWebToTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rezwan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
